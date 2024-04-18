@@ -1,0 +1,60 @@
+body {
+  background-color: rgb(250, 235, 215);
+  text-align: center;
+  margin-top: 400px;
+  background-color: rgb(151, 96, 187);
+  background-size: 2000px;
+}
+
+.icone {
+  width: 100px;
+  position: absolute;
+  top: -1px;
+  left: 300px;
+}
+
+img {
+  border-radius: 10px;
+  width: 90px;
+  border-color: black;
+}
+button {
+  border-radius: 9px;
+  background-color: rgb(250, 235, 215);
+  border-color: rgb(174, 75, 126);
+  border-style: solid;
+  position: absolute;
+  width: 100px;
+  top: 160px;
+  left: 430px;
+  height: 30px;
+}
+
+.log {
+  position: absolute;
+  top: 380px;
+  left: 690px;
+  height: 130px;
+  width: 500px;
+  margin: 0 auto;
+  padding: 50px;
+  border-radius: 3px;
+  text-align: center;
+  background-color: rgb(54, 64, 73);
+}
+
+h4 {
+  position: absolute;
+  top: 910px;
+  left: 965px;
+  color: aliceblue;
+  font-style: oblique;
+}
+
+h3 {
+  color: aliceblue;
+  position: absolute;
+  top: 130px;
+  left: 55px;
+  font-style: oblique;
+}
